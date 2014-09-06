@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html ng-app>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Angular Color Picker</title>
+</head>
+<body ng-init="r=100;g=50;b=100">
+
+<h1>First Color Picker with Angular.js</h1>
+
+<input type="range" min="0" max="255" step="1" ng-model="r"/>
+<input type="range" min="0" max="255" step="1" ng-model="g"/>
+<input type="range" min="0" max="255" step="1" ng-model="b"/>
+<br/><br/>
+
+<div style="width: 570px; height: 300px; background-color: rgb({{r}},{{g}},{{b}})"></div>
+
+<script src="bower_components/angular/angular.min.js"></script>
+</body>
+</html>

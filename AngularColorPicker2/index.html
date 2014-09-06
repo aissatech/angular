@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en" ng-app="example">
+<head>
+    <meta charset="utf-8">
+    <title>Color Picker 2</title>
+    <link href="color-picker.css" media="all" rel="stylesheet" type="text/css">
+</head>
+<body ng-controller="MainCtrl">
+    <h1>Angular.js Color Picker n°2</h1>
+
+    <ng-color-picker selected="selected"></ng-color-picker>
+
+    <br />
+    <input type="text" ng-model="selected" alt="AissaTech colors" size="73" />
+    <br />
+
+    <div style="width: 490px; height: 300px; background-color: {{selected}}"></div>
+
+    <script src="bower_components/angular/angular.min.js"></script>
+    <script src="color-picker.js"></script>
+    <script src="example.js"></script>
+</body>
+</html>
