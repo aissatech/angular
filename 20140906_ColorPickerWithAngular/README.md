@@ -1,9 +1,9 @@
 
-## First angular's color picker sample
+### Angular's color picker sample
 
 A simple color picker (range input type) for AngularJS
 
-## Using
+### Using
 
 Bower: bower v1.3.9
 
