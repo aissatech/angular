@@ -14,18 +14,19 @@ A simple color picker for AngularJS
 
 == CSS ==
 
-*** link href="color-picker.css" media="all" rel="stylesheet" type="text/css"
+-- link href="color-picker.css" media="all" rel="stylesheet" type="text/css"
 
 == JS ==
-script src="bower_components/angular/angular.min.js"
 
-script src="color-picker.js"
+-- script src="bower_components/angular/angular.min.js"
 
-script src="example.js"
+-- script src="color-picker.js"
+
+-- script src="example.js"
 
 == HTML ==
 
-*** ng-color-picker selected='selected' customized-colors="colors"
+-- ng-color-picker selected='selected' customized-colors="colors"
 
 
 ### Changing the default colors
