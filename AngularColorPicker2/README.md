@@ -22,7 +22,7 @@ A simple color picker for AngularJS
 
 <!--
 <script src="bower_components/angular/angular.min.js"></script>
-<<script src="color-picker.js"></script>
+<script src="color-picker.js"></script>
 <script src="example.js"></script>
 -->
 
