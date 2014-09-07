@@ -16,17 +16,17 @@ A simple color picker for AngularJS
 
 == CSS ==
 
-<link href="color-picker.css" media="all" rel="stylesheet" type="text/css">
+# <link href="color-picker.css" media="all" rel="stylesheet" type="text/css">
 
 == JS ==
 
-<script src="bower_components/angular/angular.min.js"></script>
-<script src="color-picker.js"></script>
-<script src="example.js"></scrip
+# <script src="bower_components/angular/angular.min.js"></script>
+# <script src="color-picker.js"></script>
+# <script src="example.js"></scrip
 
 == HTML ==
 
-<ng<ng-color-picker selected='selected' customized-colors="colors"></ng-color-picker>
+# <ng<ng-color-picker selected='selected' customized-colors="colors"></ng-color-picker>
 
 
 ### Changing the default colors
@@ -56,5 +56,5 @@ Angular: angular v1.2.23
 
 ### Based on
 
-##[http://ng-color-picker.herokuapp.com](http://ng-color-picker.herokuapp.com/)
+## [http://ng-color-picker.herokuapp.com](http://ng-color-picker.herokuapp.com/)
 
