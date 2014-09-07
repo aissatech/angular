@@ -3,17 +3,14 @@
 A simple color picker for AngularJS
 
 
-
 ### Requirements
 
 *** AngularJS v1.2.0+ ***
+
 (bower install angular command on the project's directory)
 
 
-
-
 ### Script
-
 
 == CSS ==
 
@@ -28,7 +25,6 @@ A simple color picker for AngularJS
 == HTML ==
 
 <ng<ng-color-picker selected='selected' customized-colors="colors"></ng-color-picker>
-
 
 
 ### Changing the default colors
@@ -49,13 +45,11 @@ A simple color picker for AngularJS
 </ul>
 
 
-
 ### Using
 
 Bower: bower v1.3.9
 IDE: JetBRAINS WebStorm 8
 Angular: angular v1.2.23
-
 
 
 ### Based on
