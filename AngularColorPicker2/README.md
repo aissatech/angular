@@ -26,25 +26,25 @@ script src="example.js"
 
 == HTML ==
 
-## <ng-color-picker selected='selected' customized-colors="colors"></ng-color-picker>
+<!--<ng-color-picker selected='selected' customized-colors="colors"></ng-color-picker>-->
 
 
 ### Changing the default colors
 
 
-<ul>
+<!--<ul>-->
     <!-- ngRepeat: color in colors -->
-        <li class="ng-scope" ng-repeat="color in colors" ng-class="{selected: (color===selected)}" ng-click="pick(color)"
-            style="background-color:#643264;"></li>
+        <!--<li class="ng-scope" ng-repeat="color in colors" ng-class="{selected: (color===selected)}" ng-click="pick(color)"
+            style="background-color:#643264;"></li>-->
     <!-- end ngRepeat: color in colors -->
-        <li class="ng-scope" ng-repeat="color in colors" ng-class="{selected: (color===selected)}" ng-click="pick(color)"
-            style="background-color:#d23c0a;"></li>
+        <!--<li class="ng-scope" ng-repeat="color in colors" ng-class="{selected: (color===selected)}" ng-click="pick(color)"
+            style="background-color:#d23c0a;"></li>-->
     <!-- end ngRepeat: color in colors -->
        .
        .
        .
     <!-- end ngRepeat: color in colors -->
-</ul>
+<!--</ul>-->
 
 
 ### Using
