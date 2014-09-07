@@ -5,6 +5,7 @@ A simple color picker for AngularJS
 
 ### Requirements
 
+*** Bower v1.3.0+ ***
 *** AngularJS v1.2.0+ ***
 
 (bower install angular command on the project's directory)
