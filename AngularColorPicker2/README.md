@@ -1,16 +1,18 @@
 
-### ng-color-picker
+###Second color picker sample for AngularJS
+
+#### ng-color-picker
 A simple color picker for AngularJS
 
 
-### Requirements
+#### Requirements
 
 *** Bower v1.3.0+ ***
 
 *** AngularJS v1.2.0+ ***
 
 
-### Script
+#### Script
 
 == CSS ==
 
@@ -29,7 +31,7 @@ A simple color picker for AngularJS
     ng-color-picker selected='selected' customized-colors="colors"
 
 
-### Changing the default colors
+#### Changing the default colors
 
 
 <!--<ul>-->
@@ -47,7 +49,7 @@ A simple color picker for AngularJS
 <!--</ul>-->
 
 
-### Using
+#### Using
 
 Bower: bower v1.3.9
 
@@ -56,7 +58,7 @@ IDE: JetBRAINS WebStorm 8
 AngularJS: angular v1.2.23
 
 
-### Based on
+#### Based on
 
 ##### [http://ng-color-picker.herokuapp.com](http://ng-color-picker.herokuapp.com/)
 
