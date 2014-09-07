@@ -1,8 +1,6 @@
 
 ##Second color picker sample for AngularJS
-
 ==
-
 #### ng-color-picker
 A simple color picker for AngularJS
 
