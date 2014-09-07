@@ -14,17 +14,15 @@ A simple color picker for AngularJS
 
 ### Script
 
-=== CSS ===
+== CSS ==
 
-<!--<link href="color-picker.css" media="all" rel="stylesheet" type="text/css">-->
+## <link href="color-picker.css" media="all" rel="stylesheet" type="text/css">
 
 === JS ===
 
-<!--
-<script src="bower_components/angular/angular.min.js"></script>
-<script src="color-picker.js"></script>
-<script src="example.js"></script>
--->
+## <script src="bower_components/angular/angular.min.js"></script>
+## <script src="color-picker.js"></script>
+## <script src="example.js"></script>
 
 === HTML ===
 
