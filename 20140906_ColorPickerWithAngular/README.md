@@ -3,7 +3,7 @@
 
 A simple color picker (range input type) for AngularJS
 
-### Using
+#### Using
 
 Bower: bower v1.3.9
 
