@@ -19,7 +19,9 @@ A simple color picker for AngularJS
 == JS ==
 
 *** script src="bower_components/angular/angular.min.js"
+
 *** script src="color-picker.js"
+
 *** script src="example.js"
 
 == HTML ==
