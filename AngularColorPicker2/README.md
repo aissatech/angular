@@ -16,15 +16,15 @@ A simple color picker for AngularJS
 
 == CSS ==
 
-#### link href="color-picker.css" media="all" rel="stylesheet" type="text/css"
+** link href="color-picker.css" media="all" rel="stylesheet" type="text/css"
 
-=== JS ===
+== JS ==
 
 ## <script src="bower_components/angular/angular.min.js"></script>
 ## <script src="color-picker.js"></script>
 ## <script src="example.js"></script>
 
-=== HTML ===
+== HTML ==
 
 <!--<ng-color-picker selected='selected' customized-colors="colors"></ng-color-picker>-->
 
@@ -34,11 +34,11 @@ A simple color picker for AngularJS
 
 <!--<ul>-->
     <!-- ngRepeat: color in colors -->
-        <!--<li class="ng-scope" ng-repeat="color in colors" ng-class="{selected: (color===selected)}" ng-click="pick(color)"
-            style="background-color:#643264;"></li>-->
+        <!--<li class="ng-scope" ng-repeat="color in colors" ng-class="{selected: (color===selected)}" 
+        ng-click="pick(color)" style="background-color:#643264;"></li>-->
     <!-- end ngRepeat: color in colors -->
-        <!--<li class="ng-scope" ng-repeat="color in colors" ng-class="{selected: (color===selected)}" ng-click="pick(color)"
-            style="background-color:#d23c0a;"></li>-->
+        <!--<li class="ng-scope" ng-repeat="color in colors" ng-class="{selected: (color===selected)}" 
+        ng-click="pick(color)" style="background-color:#d23c0a;"></li>-->
     <!-- end ngRepeat: color in colors -->
        .
        .
@@ -50,11 +50,13 @@ A simple color picker for AngularJS
 ### Using
 
 Bower: bower v1.3.9
+
 IDE: JetBRAINS WebStorm 8
+
 Angular: angular v1.2.23
 
 
 ### Based on
 
-## [http://ng-color-picker.herokuapp.com](http://ng-color-picker.herokuapp.com/)
+##### [http://ng-color-picker.herokuapp.com](http://ng-color-picker.herokuapp.com/)
 
