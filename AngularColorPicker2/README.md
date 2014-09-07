@@ -9,7 +9,7 @@ A simple color picker for AngularJS
 
 *** AngularJS v1.2.0+ ***
 
-(bower install angular command on the project's directory)
+("bower install angular" command on the project's directory)
 
 
 ### Script
