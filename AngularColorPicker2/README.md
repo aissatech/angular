@@ -16,7 +16,7 @@ A simple color picker for AngularJS
 
 == CSS ==
 
-### link href="color-picker.css" media="all" rel="stylesheet" type="text/css"
+#### link href="color-picker.css" media="all" rel="stylesheet" type="text/css"
 
 === JS ===
 
