@@ -60,5 +60,5 @@ Angular: angular v1.2.23
 
 ### Based on
 
-[http://ng-color-picker.herokuapp.com](http://ng-color-picker.herokuapp.com/)
+##[http://ng-color-picker.herokuapp.com](http://ng-color-picker.herokuapp.com/)
 
