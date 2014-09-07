@@ -24,7 +24,7 @@ A simple color picker for AngularJS
 
 == HTML ==
 
-*** ng-color-picker selected='selected' customized-colors="colors"></ng-color-picker>
+*** ng-color-picker selected='selected' customized-colors="colors"
 
 
 ### Changing the default colors
