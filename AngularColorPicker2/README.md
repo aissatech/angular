@@ -60,7 +60,7 @@ AngularJS: angular v1.2.23
 
 #### Demo page
 
-Demo page on JSFiddle: http://jsfiddle.net/cambob/Lthcnuyo/
+Demo page on JSFiddle: http://jsfiddle.net/cambob/Lthcnuyo/3/
 
 
 #### Based on
