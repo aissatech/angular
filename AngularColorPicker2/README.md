@@ -58,6 +58,11 @@ IDE: JetBRAINS WebStorm 8
 AngularJS: angular v1.2.23
 
 
+#### Demo page
+
+Demo page on JSFiddle
+
+
 #### Based on
 
 ##### [http://ng-color-picker.herokuapp.com](http://ng-color-picker.herokuapp.com/)
