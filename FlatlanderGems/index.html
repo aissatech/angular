@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html ng-app="gemStore" class="ng-scope">
+<head>
+    <!-- Charset -->
+    <meta charset="utf-8">
+    <!-- Responsive -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Explorer newest rendering -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- Style -->
+    <link rel="stylesheet" type="text/css" href="bower_components/bootstrap/dist/css/bootstrap.min.css"/>
+    <!-- Modernizr -->
+    <script src="js/modernizr.custom.js"></script>
+</head>
+<body ng-controller="StoreController as store" class="list-group">
+<header>
+    <h1 class="text-center"><b>Flatlander Gems</b></h1>
+    <h2 class="text-center"> an Angular store </h2>
+</header>
+
+<!--  Product Container  -->
+<div class="list-group-item" ng-repeat="product in store.products">
+    <h3>
+        {{product.name}}
+        <em class="pull-right">{{product.price | currency}}</em>
+    </h3>
+
+    <!-- Image Gallery  -->
+    <product-gallery></product-gallery>
+
+    <!--  Tabs Element Directive  -->
+
+    <!--<product-tabs ng-controller="TabController as tab"></product-tabs> -->
+    <!-- controller was moved on the directive product-tabs -->
+    <product-tabs></product-tabs>
+
+</div>
+<script type="text/javascript" src="bower_components/angular/angular.min.js"></script>
+<script type="text/javascript" src="js/app.js"></script>
+<!-- created new module about products-->
+<script type="text/javascript" src="js/product.js"></script>
+
+<!-- jQuery & plugin JavaScript -->
+<script src="bower_components/jquery/dist/jquery.min.js"></script>
+<script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+</body>
+</html>
