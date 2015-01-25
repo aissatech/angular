@@ -9,5 +9,5 @@ Bower v1.3.*
 
 Angular v1.2.*+
 
-Bootstrap v3.0.*
+Bootstrap v3.0.*+
 
