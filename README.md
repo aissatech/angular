@@ -1,7 +1,7 @@
 AngularJS
 =======
 
-Little AngularJS samples 
+Little AngularJS samples or some full projects 
 
 ## Requirements:
 
