@@ -5,7 +5,9 @@ Little AngularJS samples or some full projects
 
 ## Requirements:
 
-Bower 1.3.*
+Bower v1.3.*
 
-Angular 1.2.*+
+Angular v1.2.*+
+
+Bootstrap v3.0.*
 
